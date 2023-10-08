@@ -18,13 +18,13 @@
 - Может включать и отключать прием заказов.
 - Может получать список оформленных заказов (с товарами из его прайса).
 
-Подробная постановка:
+Подробная постановка задачи:
 https://github.com/netology-code/python-final-diplom/blob/master/README.md
 ## Установка
 
 Склонируйте репозиторий с помощью git
 
-    git clone 
+    git clone https://github.com/ez-git/netology_diplom
 
 Создать и активировать виртуальное окружение Python.
 ```
