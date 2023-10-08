@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "city": "Москва",
+        "street": "Московская",
+        "house": "4",
+        "housing": "5",
+        "building": "2",
+        "apartment": "231"
+    }
+]
